@@ -50,3 +50,5 @@ For those wondering about my background, here ya go!
 - Fishing
 - Fitness
 - Traveling
+
+More details can be found on my [LinkedIn](https://www.linkedin.com/in/ashleykrause-infosec/) Page
